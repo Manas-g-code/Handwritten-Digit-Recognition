@@ -21,6 +21,13 @@ This project uses a Convolutional Neural Network (CNN) built with Python and Ten
 
 ---
 
+## Training Model
+
+![image](https://github.com/user-attachments/assets/9845f1a4-0054-4578-815f-6582775b7440)
+![image](https://github.com/user-attachments/assets/d72f22dc-19d1-47a8-b8bb-e17b03504e5f)
+
+---
+
 ## 🚀 Tech Stack
 
 - Python 🐍
@@ -68,9 +75,11 @@ Copy
 Edit
 jupyter notebook digit_recognizer.ipynb
 📷 Sample Output
+![image](https://github.com/user-attachments/assets/d42ea6fc-c122-4a6e-9780-5b73e1124a2e)
+![image](https://github.com/user-attachments/assets/4e375f25-92a2-4866-b45d-af6f81c20d31)
+![image](https://github.com/user-attachments/assets/7f3f2569-c0df-486b-b23a-13da3eabcec1)
 
-<p align="center"> <img src="result.png" width="500" alt="Prediction-output"> </p>
-
+---
 📈 Accuracy
 Achieved over 98% validation accuracy using a basic CNN architecture. Further tuning and data augmentation can improve results.
 
