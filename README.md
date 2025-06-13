@@ -6,7 +6,8 @@ A simple yet powerful deep learning project that classifies handwritten digits (
 
 ## MNIST Dataset
 
-<p align="center"> <img src="mnistdataset.png" width="500" alt="MNIST Dataset"> </p>
+![image](https://github.com/user-attachments/assets/86339841-05b9-41d1-a035-8480866cacdd)
+
 
 ## 🔍 Project Overview
 
